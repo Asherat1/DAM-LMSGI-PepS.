@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  
+  <film id="P01">
+    <title>Pan's Labyrinth</title>
+    <releaseYear>2006</releaseYear>
+    <genere>Fantasy</genere>
+    <duration units="minutes">118</duration>
+    <actors> 
+      <actor>Ivana Baquero</actor>
+      <actor>Sergi López</actor>
+    </actors>
+  </film>
+  
+  <film id="P02">
+   <title>Dead Poets Society</title>
+    <releaseYear>1989</releaseYear>
+    <genere>Drama</genere>
+    <duration units="minutes">128</duration>
+    <actors> 
+      <actor>Robin Williams</actor>
+      <actor>Ethan Hawke</actor>
+      <actor>Robert Sean Leonard</actor>
+    </actors>
+  </film>
+  
+  <film id="P03">
+    <title>Interstellar</title>
+    <releaseYear>2014</releaseYear>
+    <genere>Science Fiction</genere>
+    <duration units="minutes">169</duration>
+    <actors> 
+      <actor>Matthew McConaughey</actor>
+      <actor>Anne Hathaway</actor>
+    </actors>
+  </film>
+
+</catalog>
