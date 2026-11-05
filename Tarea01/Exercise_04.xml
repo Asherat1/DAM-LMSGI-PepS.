@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<inventory updated="2025-05-0">
+
+  <plant id="PLT-01" stock="available">
+    <name>Monstera deliciosa</name>
+    <type>Indoor</type>
+    <price coin="EUR">24.99</price>
+    <water>Twice a week</water>
+  </plant>
+  
+  <plant id="PLT-02" stock="available">
+    <name>Miniature rose</name>
+    <type>Outdoor</type>
+    <price coin="EUR">12.50</price>
+    <water>Three times a week</water>
+  </plant>
+  
+  <plant id="PLT-03" stock="on-demand">
+    <name>Saguaro cactus</name>
+    <type>Indoor</type>
+    <price coin="EUR">8.75</price>
+    <water>Once a week</water>
+  </plant>
+  
+</inventory>
