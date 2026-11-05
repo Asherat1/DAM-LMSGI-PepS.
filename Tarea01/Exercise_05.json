@@ -1,0 +1,47 @@
+
+{
+    "surveys": [
+       {
+        "id":1,
+        "title": "Satisfaction Survey",
+        "Active": true,
+        "questions": [
+            {
+            "order":1,   
+            "text":"Are you satisfied with the service?",
+            "type":"múltiple_choice",
+            "answers":["Yes", "No", "So_much!"]
+            },
+            {
+            "order":2,
+            "text":"Would you recommend us to others?",
+            "type":"múltiple_choice", 
+            "answers":["Yes", "No", "I_don't_know"]
+         }
+        ]
+        },
+       {
+        "id":2,
+        "title": "Satisfaction Survey 2",
+        "Active": false,
+        "questions": [
+            {"order":1,   
+            "text":"There's something we can do to improve our service?",
+            "type":"free_text" 
+            },
+            {
+            "order":1,   
+            "text":"Are you available to take more surveys so we can improve our service?",
+            "type":"múltiple_choice",
+            "answers":["Yes", "No", "Ask_me_later"]
+            }    
+        ]
+
+        }
+    ]
+}
+
+                       
+
+
+    
